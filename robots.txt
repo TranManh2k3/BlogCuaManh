@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://tranmanh2k3.github.io/BlogCuaManh/sitemap.xml

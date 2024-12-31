@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "BlogCuaManh",
+    "description": "",
+    "home_page_url": "https://tranmanh2k3.github.io/BlogCuaManh",
+    "feed_url": "https://tranmanh2k3.github.io/BlogCuaManh/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Manh"
+    },
+    "items": [
+    ]
+}
